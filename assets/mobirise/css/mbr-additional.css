@@ -1209,8 +1209,8 @@ a {
   color: #4479d9;
 }
 .cid-t5j0ojh5Km {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
 .cid-t5j0ojh5Km .mbr-iconfont {
@@ -2026,6 +2026,22 @@ a {
   width: 100%;
   object-fit: cover;
   min-height: 1px;
+}
+.cid-toNy9Oq9Xz {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-toNy9Oq9Xz .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-toNy9Oq9Xz .row {
+  flex-direction: row-reverse;
+}
+.cid-toNy9Oq9Xz img {
+  width: 100%;
 }
 .cid-t5iCzmWxJA {
   z-index: 1000;
